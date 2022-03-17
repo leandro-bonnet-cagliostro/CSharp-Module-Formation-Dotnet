@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex-Revision-Middleware.Business/1.0.0": {
+        "dependencies": {
+          "Ex-Revision-Middleware.Core": "1.0.0",
+          "Ex-Revision-Middleware.Data": "1.0.0",
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "5.0.14"
+        },
+        "runtime": {
+          "Ex-Revision-Middleware.Business.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.Internal/5.0.14": {
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.1422.6324"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/5.0.14": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "5.0.14"
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.1422.6324"
+          }
+        }
+      },
+      "Ex-Revision-Middleware.Core/1.0.0": {
+        "runtime": {
+          "Ex-Revision-Middleware.Core.dll": {}
+        }
+      },
+      "Ex-Revision-Middleware.Data/1.0.0": {
+        "dependencies": {
+          "Ex-Revision-Middleware.Core": "1.0.0"
+        },
+        "runtime": {
+          "Ex-Revision-Middleware.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex-Revision-Middleware.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Cryptography.Internal/5.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XHHWcCuxqZ5y3x2GUnBtZ9UuoTKiVDPoqb5jWOmKF1vhf0By6bhLX+y87quI9VFw3hXIVwkhxwz/vi0mVqvh8A==",
+      "path": "microsoft.aspnetcore.cryptography.internal/5.0.14",
+      "hashPath": "microsoft.aspnetcore.cryptography.internal.5.0.14.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/5.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xKJR6NaioIuCBAJGiDWsE2Tl4xtkVh2N2oFpNIJKYIekbfL4okjIxYHv6WcxUvMlZ+YzOH/TixpCtPIiDgBRxw==",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/5.0.14",
+      "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.5.0.14.nupkg.sha512"
+    },
+    "Ex-Revision-Middleware.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex-Revision-Middleware.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

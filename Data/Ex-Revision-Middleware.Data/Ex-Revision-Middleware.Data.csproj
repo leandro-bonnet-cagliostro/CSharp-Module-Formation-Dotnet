@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Ex_Revision_Middleware.Data</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Ex-Revision-Middleware.Core\Ex-Revision-Middleware.Core.csproj" />
+  </ItemGroup>
+
+</Project>

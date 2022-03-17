@@ -1,0 +1,14 @@
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\bin\Debug\net5.0\Ex-Revision-Middleware.Data.deps.json
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\bin\Debug\net5.0\Ex-Revision-Middleware.Data.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\bin\Debug\net5.0\ref\Ex-Revision-Middleware.Data.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\bin\Debug\net5.0\Ex-Revision-Middleware.Data.pdb
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\bin\Debug\net5.0\Ex-Revision-Middleware.Core.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\bin\Debug\net5.0\Ex-Revision-Middleware.Core.pdb
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\obj\Debug\net5.0\Ex-Revision-Middleware.Data.csproj.AssemblyReference.cache
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\obj\Debug\net5.0\Ex-Revision-Middleware.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\obj\Debug\net5.0\Ex-Revision-Middleware.Data.AssemblyInfoInputs.cache
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\obj\Debug\net5.0\Ex-Revision-Middleware.Data.AssemblyInfo.cs
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\obj\Debug\net5.0\Ex-Revision-Middleware.Data.csproj.CoreCompileInputs.cache
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\obj\Debug\net5.0\Ex-Revision-Middleware.Data.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\obj\Debug\net5.0\ref\Ex-Revision-Middleware.Data.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Ex-Revision-Middleware.Data\obj\Debug\net5.0\Ex-Revision-Middleware.Data.pdb

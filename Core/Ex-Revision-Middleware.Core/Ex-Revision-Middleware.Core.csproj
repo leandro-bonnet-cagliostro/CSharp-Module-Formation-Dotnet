@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Ex_Revision_Middleware.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\bin\Debug\net5.0\Ex-Revision-Middleware.Core.deps.json
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\bin\Debug\net5.0\Ex-Revision-Middleware.Core.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\bin\Debug\net5.0\ref\Ex-Revision-Middleware.Core.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\bin\Debug\net5.0\Ex-Revision-Middleware.Core.pdb
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\obj\Debug\net5.0\Ex-Revision-Middleware.Core.csproj.AssemblyReference.cache
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\obj\Debug\net5.0\Ex-Revision-Middleware.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\obj\Debug\net5.0\Ex-Revision-Middleware.Core.AssemblyInfoInputs.cache
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\obj\Debug\net5.0\Ex-Revision-Middleware.Core.AssemblyInfo.cs
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\obj\Debug\net5.0\Ex-Revision-Middleware.Core.csproj.CoreCompileInputs.cache
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\obj\Debug\net5.0\Ex-Revision-Middleware.Core.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\obj\Debug\net5.0\ref\Ex-Revision-Middleware.Core.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Core\Ex-Revision-Middleware.Core\obj\Debug\net5.0\Ex-Revision-Middleware.Core.pdb

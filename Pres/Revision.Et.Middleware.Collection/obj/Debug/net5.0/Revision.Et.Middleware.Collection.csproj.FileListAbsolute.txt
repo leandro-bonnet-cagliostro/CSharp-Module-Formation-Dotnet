@@ -1,0 +1,16 @@
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\bin\Debug\net5.0\Revision.Et.Middleware.Collection.exe
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\bin\Debug\net5.0\Revision.Et.Middleware.Collection.deps.json
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\bin\Debug\net5.0\Revision.Et.Middleware.Collection.runtimeconfig.json
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\bin\Debug\net5.0\Revision.Et.Middleware.Collection.runtimeconfig.dev.json
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\bin\Debug\net5.0\Revision.Et.Middleware.Collection.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\bin\Debug\net5.0\ref\Revision.Et.Middleware.Collection.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\bin\Debug\net5.0\Revision.Et.Middleware.Collection.pdb
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\obj\Debug\net5.0\Revision.Et.Middleware.Collection.csproj.AssemblyReference.cache
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\obj\Debug\net5.0\Revision.Et.Middleware.Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\obj\Debug\net5.0\Revision.Et.Middleware.Collection.AssemblyInfoInputs.cache
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\obj\Debug\net5.0\Revision.Et.Middleware.Collection.AssemblyInfo.cs
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\obj\Debug\net5.0\Revision.Et.Middleware.Collection.csproj.CoreCompileInputs.cache
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\obj\Debug\net5.0\Revision.Et.Middleware.Collection.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\obj\Debug\net5.0\ref\Revision.Et.Middleware.Collection.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\obj\Debug\net5.0\Revision.Et.Middleware.Collection.pdb
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Pres\Revision.Et.Middleware.Collection\obj\Debug\net5.0\Revision.Et.Middleware.Collection.genruntimeconfig.cache

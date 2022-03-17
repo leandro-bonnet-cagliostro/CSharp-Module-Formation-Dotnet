@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Revision.Et.Middleware.Presentation.Delegate/1.0.0": {
+        "runtime": {
+          "Revision.Et.Middleware.Presentation.Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revision.Et.Middleware.Presentation.Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

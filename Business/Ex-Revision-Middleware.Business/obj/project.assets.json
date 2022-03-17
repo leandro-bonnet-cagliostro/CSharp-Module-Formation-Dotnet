@@ -1,0 +1,183 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Microsoft.AspNetCore.Cryptography.Internal/5.0.14": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/5.0.14": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "5.0.14"
+        },
+        "compile": {
+          "lib/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        }
+      },
+      "Ex-Revision-Middleware.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ex-Revision-Middleware.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ex-Revision-Middleware.Core.dll": {}
+        }
+      },
+      "Ex-Revision-Middleware.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ex-Revision-Middleware.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ex-Revision-Middleware.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ex-Revision-Middleware.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.AspNetCore.Cryptography.Internal/5.0.14": {
+      "sha512": "XHHWcCuxqZ5y3x2GUnBtZ9UuoTKiVDPoqb5jWOmKF1vhf0By6bhLX+y87quI9VFw3hXIVwkhxwz/vi0mVqvh8A==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.cryptography.internal/5.0.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.AspNetCore.Cryptography.Internal.dll",
+        "lib/net461/Microsoft.AspNetCore.Cryptography.Internal.xml",
+        "lib/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll",
+        "lib/net5.0/Microsoft.AspNetCore.Cryptography.Internal.xml",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.xml",
+        "microsoft.aspnetcore.cryptography.internal.5.0.14.nupkg.sha512",
+        "microsoft.aspnetcore.cryptography.internal.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/5.0.14": {
+      "sha512": "xKJR6NaioIuCBAJGiDWsE2Tl4xtkVh2N2oFpNIJKYIekbfL4okjIxYHv6WcxUvMlZ+YzOH/TixpCtPIiDgBRxw==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/5.0.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/net461/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
+        "lib/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
+        "microsoft.aspnetcore.cryptography.keyderivation.5.0.14.nupkg.sha512",
+        "microsoft.aspnetcore.cryptography.keyderivation.nuspec"
+      ]
+    },
+    "Ex-Revision-Middleware.Core/1.0.0": {
+      "type": "project",
+      "path": "../../Core/Ex-Revision-Middleware.Core/Ex-Revision-Middleware.Core.csproj",
+      "msbuildProject": "../../Core/Ex-Revision-Middleware.Core/Ex-Revision-Middleware.Core.csproj"
+    },
+    "Ex-Revision-Middleware.Data/1.0.0": {
+      "type": "project",
+      "path": "../../Data/Ex-Revision-Middleware.Data/Ex-Revision-Middleware.Data.csproj",
+      "msbuildProject": "../../Data/Ex-Revision-Middleware.Data/Ex-Revision-Middleware.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Ex-Revision-Middleware.Core >= 1.0.0",
+      "Ex-Revision-Middleware.Data >= 1.0.0",
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation >= 5.0.14"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\leand\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Informatique\\Formation-Net\\Deep-Dive\\Doc-Fait\\Ex-Revision-Middleware\\Revision.Et.Middleware\\Business\\Ex-Revision-Middleware.Business\\Ex-Revision-Middleware.Business.csproj",
+      "projectName": "Ex-Revision-Middleware.Business",
+      "projectPath": "D:\\Informatique\\Formation-Net\\Deep-Dive\\Doc-Fait\\Ex-Revision-Middleware\\Revision.Et.Middleware\\Business\\Ex-Revision-Middleware.Business\\Ex-Revision-Middleware.Business.csproj",
+      "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
+      "outputPath": "D:\\Informatique\\Formation-Net\\Deep-Dive\\Doc-Fait\\Ex-Revision-Middleware\\Revision.Et.Middleware\\Business\\Ex-Revision-Middleware.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Informatique\\Formation-Net\\Deep-Dive\\Doc-Fait\\Ex-Revision-Middleware\\Revision.Et.Middleware\\Core\\Ex-Revision-Middleware.Core\\Ex-Revision-Middleware.Core.csproj": {
+              "projectPath": "D:\\Informatique\\Formation-Net\\Deep-Dive\\Doc-Fait\\Ex-Revision-Middleware\\Revision.Et.Middleware\\Core\\Ex-Revision-Middleware.Core\\Ex-Revision-Middleware.Core.csproj"
+            },
+            "D:\\Informatique\\Formation-Net\\Deep-Dive\\Doc-Fait\\Ex-Revision-Middleware\\Revision.Et.Middleware\\Data\\Ex-Revision-Middleware.Data\\Ex-Revision-Middleware.Data.csproj": {
+              "projectPath": "D:\\Informatique\\Formation-Net\\Deep-Dive\\Doc-Fait\\Ex-Revision-Middleware\\Revision.Et.Middleware\\Data\\Ex-Revision-Middleware.Data\\Ex-Revision-Middleware.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+            "target": "Package",
+            "version": "[5.0.14, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

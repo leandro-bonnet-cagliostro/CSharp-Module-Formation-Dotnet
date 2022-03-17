@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex-Revision-Middleware.Data/1.0.0": {
+        "dependencies": {
+          "Ex-Revision-Middleware.Core": "1.0.0"
+        },
+        "runtime": {
+          "Ex-Revision-Middleware.Data.dll": {}
+        }
+      },
+      "Ex-Revision-Middleware.Core/1.0.0": {
+        "runtime": {
+          "Ex-Revision-Middleware.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex-Revision-Middleware.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex-Revision-Middleware.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

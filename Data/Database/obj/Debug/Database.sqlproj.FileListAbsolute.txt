@@ -1,0 +1,6 @@
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Database\bin\Debug\Database.dacpac
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Database\bin\Debug\Database.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Database\bin\Debug\Database.pdb
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Database\obj\Debug\Database.dll
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Database\obj\Debug\Database.pdb
+D:\Informatique\Formation-Net\Deep-Dive\Doc-Fait\Ex-Revision-Middleware\Revision.Et.Middleware\Data\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
